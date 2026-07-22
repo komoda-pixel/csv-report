@@ -1,1 +1,15 @@
+{
+  "name": "csv-report",
+  "version": "1.0.0",
+  "description": "CSVレポート表示用の簡易Reactアプリ",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "echo \"ローカル環境では npm start を使います\"",
+    "test": "echo \"テストは未設定です\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
 
